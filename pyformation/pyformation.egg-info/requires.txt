@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pyfiglet
+PyInquirer
+lxml
+jinja2
+GitPython
+python-dotenv
+moto

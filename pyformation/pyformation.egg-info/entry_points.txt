@@ -1,0 +1,3 @@
+[console_scripts]
+pyformation-admin = pyformation.bin.pyformation_admin:controller
+

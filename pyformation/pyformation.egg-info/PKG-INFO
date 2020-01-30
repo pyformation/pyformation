@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyformation
+Version: 0.1.4
+Summary: CloudFormation eloquently expressed as Python
+Home-page: http://github.com/dennisvink/pyformation
+Author: Dennis Vink
+Author-email: dennis@drvink.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

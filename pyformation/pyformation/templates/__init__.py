@@ -1,0 +1,1 @@
+build_order=['ecsstack', 'vpcstack', 'parentstack']
